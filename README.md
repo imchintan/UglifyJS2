@@ -17,11 +17,11 @@ First make sure you have installed the latest version of [node.js](http://nodejs
 
 From NPM for use as a command line app:
 
-    npm install uglify-js -g
+    npm install imchintan/uglify-js -g
 
 From NPM for programmatic use:
 
-    npm install uglify-js
+    npm install imchintan/uglify-js
 
 # Command line usage
 
